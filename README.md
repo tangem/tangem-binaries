@@ -1,1 +1,8 @@
-- **Version**: 5.22.0\n- **Hash**: e3e69892b37b71c3f460639fa8f19df34ef9cebd7aa28e91bbfb67767a5e81c1
+Tangem Binaries (Deprecated)
+
+❗ Notice: This repository is no longer used for publishing APK files of the Tangem app.
+
+👉 The latest APK releases are now available at:  
+https://github.com/tangem/tangem-app-android/releases(https://github.com/tangem/tangem-app-android/releases)
+
+Please update your bookmarks accordingly.
